@@ -2,12 +2,12 @@
 
 * User Cases for Jmeter
 	* Used for Performance and Load Testing on:
-		* Most useful for us
+		* Most useful for us - These we will demonstrate
 			* Web - HTTP, HTTPS(Java, NodeJS, PHP, ...)
 			* SOAP / REST Webservices
 			* Database via JDBC
 			* Java Objects
-		* Least useful for us
+		* Least useful for us - These we will talk about
 			* TCP
 			* Native Commands or Shell Scripts
 			* FTP
