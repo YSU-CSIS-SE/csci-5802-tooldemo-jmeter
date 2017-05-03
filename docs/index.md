@@ -76,12 +76,12 @@ Now you will want to add an HTTP Request sampler to Thread Group, which represen
     Mouse over Sampler >
     Click on HTTP Request
 
-In HTTP Request, under the HTTP Request section, fill in the Path with the item that you want each thread (user) to request. We will set this to /, so each thread will access the homepage of our server. Note that you do not need to specify the server in this item because it was already specified in the HTTP Request Defaults item.
+In HTTP Request, under the HTTP Request section, fill in the Path with the item that you want each thread (user) to request. . Note that you do not need to specify the server in this item because it was already specified in the HTTP Request Defaults item.
 
 
 Add a View Results in Table Listener
 
-In JMeter, listeners are used to output the results of a load test. There are a variety of listeners available, and the other listeners can be added by installing plugins. We will use the Table because it is easy to read.
+In JMeter, listeners are used to output the results of a load test. There are a variety of listeners available, and the other listeners can be added by installing plugins.
 
     Select Thread Group, then Right-click it
     Mouse over Add >
